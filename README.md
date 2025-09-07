@@ -13,3 +13,10 @@ Insight
 - Kasus nasional menunjukkan pola **gelombang besar**.
 - Top 5 provinsi menyumbang mayoritas kasus (DKI, Jabar, Jateng, Jatim, Banten).
 - Model RandomForest baseline hanya menjelaskan ~13% variasi data (R²=0.13).
+
+## 🤖 AI Support
+AI (ChatGPT) digunakan untuk:
+- Membuat template kode di Colab
+- Membantu merapikan struktur analisis & laporan
+- Menjelaskan hasil dengan bahasa sederhana  
+👉 Analisis data & interpretasi tetap dilakukan manual.
